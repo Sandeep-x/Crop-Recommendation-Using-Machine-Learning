@@ -3,7 +3,7 @@ This simple project will provide advice on which crops are best suited to a give
 
 ## Training the Model
 ### Dataset
-The data used in this project is made by augmenting and combining various publicly available datasets of India like weather, soil, etc. You can access the dataset here. This data is relatively simple with very few but useful features unlike the complicated features affecting the yield of the crop.
+The data used in this project is made by augmenting and combining various publicly available datasets of India like weather, soil, etc. You can access the dataset in this repository. This data is relatively simple with very few but useful features unlike the complicated features affecting the yield of the crop.
 
 <b>Attributes information:</b>
 <ul>
